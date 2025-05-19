@@ -1,15 +1,18 @@
 # EL MEU VIDEOJOC PREFERIT
 
-## FIFA
+## FIFA 
 
-|                |              |
-|----------------|--------------|
-|    CREADOR     |    MESSI     |
-|   ANY CREACIÓ  |    2011      |
-|   COFUNDADOR   |   Cristiano  |
-|  PLATAFORMAS   | PS4,PS5 I PC |
 
-*MODES DE JOC*
+### CARACTERISTIQUES
+
+|                |                |
+|----------------|----------------|
+|    *CREADOR*   |    *MESSI*     |
+|  *ANY CREACIÓ* |    *2011*      |
+|  *COFUNDADOR*  |  *Cristiano*   |
+|  *PLATAFORMES* | *PS4,PS5 I PC* |
+
+**MODES DE JOC**
 
 - BATTLE ROYALE
 - SALVAR EL MUNDO
@@ -23,7 +26,12 @@
 
 
 
-***ALTRES INFORMACIÓNS***
+### HISTORIA
+
+Un noi de 17 anys volia fer algo innovador i amb un altre amic van decidir crear un joc. Poc a poc van anar creixent i el joc anava agafant popularitat fins que al 2017 van treure el mode battle royale i va fer un boom que en 1 any van aconseguir mes de 10 milions de jugador nous
+
+
+### ALTRES INFORMACIÓNS
 
 El creador 4 anys despres de crear el joc va vendre un 10% de l'empresa per 800 dolars, ara aquest 10% val 100.000 milions.
 
