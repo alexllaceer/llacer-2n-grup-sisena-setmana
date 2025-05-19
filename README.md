@@ -2,10 +2,12 @@
 
 ## FIFA
 
-| ANY CREACIÓ    |  2011        |
-| CREADOR        |  Leo Messi   |
-| CO FUNDADOR    |  Cristiano   |
-| PLATAFORMAS    |  PS4,PS5 I PC|
+|                |              |
+|----------------|--------------|
+|    CREADOR     |    MESSI     |
+|   ANY CREACIÓ  |    2011      |
+|   COFUNDADOR   |   Cristiano  |
+|  PLATAFORMAS   | PS4,PS5 I PC |
 
 *MODES DE JOC*
 
