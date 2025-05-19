@@ -20,8 +20,16 @@
 
 
 
+
+***ALTRES INFORMACIÓNS***
+
+El creador 4 anys despres de crear el joc va vendre un 10% de l'empresa per 800 dolars, ara aquest 10% val 100.000 milions.
+
+
 **LOGO DEL JOC**
 
 ![logo](jordan.png)
 
 **ENLLAÇ A LA WEB DE FORTNITE**
+
+[web](https://fortnite.com)
